@@ -5,7 +5,6 @@
 
 <BODY>
 <p> This is first file </p>
-<p> This is first file </p>
-<p> This is first file </p>
+
 </BODY>
 </HTML>
